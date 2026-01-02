@@ -1,16 +1,67 @@
-## Hi there 👋
+<!-- ===================== 401RAVEN ===================== -->
 
-<!--
-**401-raven/401-raven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+ ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗
+ ██╔══██╗██╔══██╗██║   ██║██╔════╝████╗  ██║
+ ██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║
+ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║
+ ██║  ██║██║  ██║ ╚████╔╝ ███████╗██║ ╚████║
+ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝
+text
+Copy code
+        ███▄ ▄███▓  ▄████▄   ██▀███   ██▀███   ▄▄▄    ██▒   █▓
+       ▓██▒▀█▀ ██▒ ▒██▀ ▀█  ▓██ ▒ ██▒▓██ ▒ ██▒▒████▄ ▓██░   █▒
+       ▓██    ▓██░ ▒▓█    ▄ ▓██ ░▄█ ▒▓██ ░▄█ ▒▒██  ▀█▄▓██  █▒░
+       ▒██    ▒██  ▒▓▓▄ ▄██▒▒██▀▀█▄  ▒██▀▀█▄  ░██▄▄▄▄██▒██ █░░
+       ▒██▒   ░██▒ ▒ ▓███▀ ░░██▓ ▒██▒░██▓ ▒██▒ ▓█   ▓██▒▒▀█░  
+       ░ ▒░   ░  ░ ░ ░▒ ▒  ░░ ▒▓ ░▒▓░░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░ ▐░  
+       ░  ░      ░   ░  ▒     ░▒ ░ ▒░  ░▒ ░ ▒░  ▒   ▒▒ ░░ ░░  
+       ░      ░    ░          ░░   ░   ░░   ░   ░   ▒     ░░  
+              ░    ░ ░         ░        ░           ░  ░   ░  
+                   ░                                            
 
-Here are some ideas to get you started:
+              ☠  CORRUPTED SIGNAL  ☠
+        raven / skull hybrid — checksum mismatch
+<h3 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=root@401raven~$+init;[+]+injecting+context;[!]+integrity+unstable;execution+continues...;stay+quiet.&font=Fira+Code&center=true&width=560&height=45&color=8b0000&vCenter=true&pause=900"> </h3>
+bash
+Copy code
+[BOOTLOADER::stage0]
+> resolving memory pages .......... OK
+> hooking execution flow .......... OK
+> entropy spike detected .......... WARN
+> symbols stripped ................ OK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[BOOTLOADER::stage1]
+> payload mapped @ 0x401000
+> behavior emulation enabled
+> artifacts suppressed
+
+[BOOTLOADER::stage2]
+> silence enforced
+> trace begins
+bash
+Copy code
+root@401raven~$ whoami
+raven
+
+root@401raven~$ status
+running | corrupted | aware
+
+root@401raven~$ philosophy
+behavior > signatures
+execution > assumptions
+
+root@401raven~$ _
+diff
+Copy code
++ follows runtime, not noise
++ trusts execution paths
++ leaves minimal traces
+<p align="center"> <sub style="color:#8b0000">401 — unauthorized by design</sub> </p> ```
+
+
+
+
+
+
+
